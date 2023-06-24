@@ -1,6 +1,4 @@
 <p align="center">
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw0ycewIosAMW10EWSEffFr6&ust=1687691286605000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjgho_i2_8CFQAAAAAdAAAAABAZ
   
   <h1 align="center"> Hi Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <code>Raghav Sharma</code></h1>
 </p>
